@@ -27,8 +27,8 @@ This repository contains an interactive dashboard created in Power BI using the 
 - Sales Market Distribution
 
 ## 📷 Dashboard Previews
-![Sales Overview](./screenshots/dashboard_1.png)
-![Segment Insights](./screenshots/dashboard_2.png)
+![Screenshot 2025-06-04 133102](https://github.com/user-attachments/assets/511622f2-dce4-43b1-95c0-521319fccc23)
+![Screenshot 2025-06-04 133130](https://github.com/user-attachments/assets/56602489-c33b-4f1c-8bf1-567a48f5283c)
 
 ## 💡 Insights Generated
 - Asia Pacific led global sales with $4M+
@@ -36,8 +36,8 @@ This repository contains an interactive dashboard created in Power BI using the 
 - Return orders and delivery averages provided customer trend insights
 
 ## 🔗 Connect
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/)
-- Email: your.email@example.com
+- LinkedIn:   https://www.linkedin.com/in/mohammad-aamir-rangrez-727694212
+- Email: mohdaamirrangadi@gmail.com
 
 ---
 
